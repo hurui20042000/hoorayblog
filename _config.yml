@@ -68,6 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-type: git
-repo: https://github.com/hurui20042000/hurui20042000.github.io.git
-branch: master
+  type: git
+  repo: git@github.com:hurui20042000/hurui20042000.github.io.git
+  branch: master
